@@ -1,7 +1,7 @@
 # Alurabank
 
-Repositório criado para os códigos do curso de TypeScript 1 da alura
+Repository for TypeScript Course codes (Alura)
 
-# Para compilar o projeto use
+# Compile the project with:
 
 npm start
